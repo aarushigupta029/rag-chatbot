@@ -1,4 +1,5 @@
 streamlit
 transformers
 torch
-pandas
+datasets
+faiss-cpu
